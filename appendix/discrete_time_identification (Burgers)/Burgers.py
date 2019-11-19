@@ -309,4 +309,4 @@ if __name__ == "__main__":
     s = s1 + s2 + s3 + s4 + s5
     ax.text(-0.1, 0.2, s)
 
-    savefig('./figures/Burgers')
+    # savefig('./figures/Burgers')
